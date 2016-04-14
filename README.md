@@ -10,6 +10,8 @@ or send us [feedback](http://dato.com/company/contact.html).
 
 Data Ingress
 -------------
+
+[![Join the chat at https://gitter.im/arita291/how-to](https://badges.gitter.im/arita291/how-to.svg)](https://gitter.im/arita291/how-to?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * [Import data from Pandas Series/Dataframes](pandas_to_glc.py)
 * [Import data from your Spark cluster](spark_to_sframe.py)
 * [Import data from your databases using SQL](sql_to_sframe.py)
